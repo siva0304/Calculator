@@ -3,7 +3,7 @@
     "name": "Calculator",
     "slug": "Calculator",
     "version": "1.0.0",
-    "icon": "./lib/Calculator-logo.png",
+    "icon": "./lib/Calculator-logo.jpeg",
     "android": {
       "package": "com.siva0304.Calculator"
     }
