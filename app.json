@@ -3,9 +3,21 @@
     "name": "Calculator",
     "slug": "Calculator",
     "version": "1.0.0",
-    "icon": "./lib/Calculator-logo.jpeg",
+    "icon": "./lib/Calculator-logo.png",
     "android": {
       "package": "com.siva0304.Calculator"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c660a8f4-838c-4b3d-8fe5-f9e2edc24552"
+      }
+    },
+    "owner": "siva0304",
+    "ios": {
+      "bundleIdentifier": "y",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     }
   }
 }
